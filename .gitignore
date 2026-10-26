@@ -1,0 +1,10 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+checkpoints/
+__pycache__/
+cartoon_capture_000.jpg
